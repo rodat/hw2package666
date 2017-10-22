@@ -1,0 +1,10 @@
+Package: hw2package
+Type: Package
+Title: Fitting OLS regressions and logistic regressions
+Version: 0.1-1
+Date: 2017-10-22
+Authors@R: person("Saro", "Gibilisco", role = c("aut", "cre"), email = "saro.gibilisco@uzh.ch")
+Maintainer: Rolf Badat <rolf.badat@uzh.ch>
+Description: Functions to calculate linear and logistic regressions.
+License: GPL (>=2)
+Depends: R (>= 3.1.0), stats, MASS

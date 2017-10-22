@@ -1,0 +1,2 @@
+import(MASS, stats)
+export(logreg.fun, lm.fun)
